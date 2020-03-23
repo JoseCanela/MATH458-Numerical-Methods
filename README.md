@@ -23,6 +23,11 @@ For our final project for our Numerical Methods class, we were given several dif
 directions method* get a good approximation to the solution of the system **Q*****x*** = ***b***. Also, use the *Gauss elimination method* to solve this system. Compare the results and
 comment on the advantages and disadvantages of each method.
 
+## Authors
+* Jose Canela
+* Paul Chang
+* Sara Kwan
+
 ## NOTE
 In order to see the problem statements, methodologies, results, and code appendix, simply click on this [link](https://github.com/JoseCanela/MATH458-Numerical-Methods/blob/master/Final%20Project_Report.pdf) for our final project report.
        
